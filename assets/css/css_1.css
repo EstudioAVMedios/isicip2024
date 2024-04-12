@@ -1,0 +1,347 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+	@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@200&display=swap');
+
+	@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@200;600&display=swap');
+
+	@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,200;0,600;1,500&display=swap');
+
+	@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,200;0,600;1,500&display=swap');
+
+	@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,200;0,500;0,600;1,500&display=swap');
+
+
+
+body{
+
+	display:none;
+
+	font-family: 'Exo 2', sans-serif;
+
+}
+
+@media (max-width:1200px){
+
+	#user1{
+
+	display: none;
+
+}
+	.loader {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url("Imagenes/genericas/loading.gif") 20% 20% no-repeat rgb(249,249,249);
+    opacity: .7;
+}
+
+}
+
+@media (min-width:1200px){
+
+	#user{
+
+	display: none;
+
+}
+
+}
+
+nav{
+
+	background: none!important;
+
+	font-weight: 500;
+
+}
+
+nav .nav-item:hover{
+
+	background-color: rgba(18,57,95,0.14);
+
+
+
+}
+
+.nav-link_color{
+
+	color:var(--bg-color)!important;
+
+}
+
+.dropdown-item:focus{
+
+	background: var(--bg-color);
+
+}
+
+.accordion-collapse{
+
+	background-image: url("../Imagenes/genericas/bg-program.png");
+
+	background-size: auto 100%;
+
+	background-position: right;
+
+	background-repeat: no-repeat;
+
+}
+
+ #web_patrocinador{
+
+	 color: black;}
+
+#web_patrocinador span:hover{
+
+	color:var(--bg-color);
+
+}
+
+.programaoff{
+
+	background: var(--bg-color)!important;
+
+	opacity: 0.4;
+
+	color:white;
+
+}
+
+.programaon{
+
+	background: var(--bg-color)!important;
+
+	opacity: 1;
+
+}
+.programaoff2{
+
+	background: var(--bg-color)!important;
+
+	opacity: 0.4;
+
+	color:white;
+
+}
+
+.programaon2{
+
+	background: var(--bg-color)!important;
+
+	opacity: 1;
+
+}
+.enlace{
+	cursor: pointer;
+}
+.enlace:hover{
+	color:var(--bg-color);
+}
+
+#call_to_action{
+
+	background-image: url(../Imagenes/genericas/bg-event.png);
+
+	background-size:cover;
+
+	background-attachment: fixed;
+
+}
+
+
+
+
+
+::selection{
+
+	background: var(--bg-color);
+
+    color: white;
+
+}
+
+
+
+/* Firefox */
+
+::-moz-selection {
+
+    background: var(--bg-color);
+
+    color: white;
+
+}
+
+.ir-arriba{
+
+  background-repeat:no-repeat;
+
+  font-size:20px;
+
+	display: none;
+
+  cursor:pointer;
+
+  position:fixed;
+
+  bottom:50px;
+
+  right:20px;
+
+  z-index:2;
+
+}
+
+#ir-arriba:hover{
+
+	color:black;
+
+}
+
+
+
+
+
+#inputGroupPrepend2, #inputGroupPrepend3{
+
+	cursor: pointer;
+
+}
+.bank_data{
+	list-style: none;
+}
+
+
+.chip {
+
+  display: inline-block;
+
+  padding: 0 25px;
+
+  height: 50px;
+
+  font-size: 16px;
+
+  line-height: 50px;
+
+  border-radius: 25px;
+
+  background-color: #f1f1f1;
+
+border-right: 2px solid var(--bg-color);
+
+}
+
+
+
+.chip img {
+
+  float: left;
+
+  margin: 0 10px 0 -25px;
+
+  height: 50px;
+
+  width: 50px;
+
+  border-radius: 50%;
+
+}
+
+
+
+
+
+
+
+/****************************chip de sponsors*********************************************************************/
+
+.chip2 {
+
+  display: inline-block;
+
+  padding: 0 25px;
+
+  font-size: 19px;
+
+  line-height: 50px;
+
+
+
+  background-color: #fff;
+
+border-right: 2px solid var(--bg-color);
+
+font-style: italic;
+
+}
+
+
+
+.chip2 img {
+
+  float: left;
+
+  margin: 0 10px 0 -25px;
+
+  height: 69px;
+
+  width: 69px;
+
+  vertical-align: middle;
+
+
+
+}
+
+
+#form_code{
+	display: none;
+}
+
+#makeMeDraggable1{
+
+width: 110px;
+
+	height: 70px;
+
+cursor: pointer;
+
+background-image: url("../Imagenes/genericas/button_slide.png");
+
+background-size: 100%;
+
+	background-repeat: no-repeat;
+
+}
+
+#brand-navbar{
+
+	display:none;
+
+}
+
+a div strong{
+
+	color:dimgray;
+
+}
+
+#alert2,#alert,#alert3,#alert4,#alert5,#alert6,#alert7{
+
+	display: none;
+
+}
+
+.selected{
+
+	background: var(--bg-color) !important;
+
+	background-color: var(--bg-color) !important;
+
+}

@@ -1,0 +1,770 @@
+[26-Apr-2023 09:44:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/registradores2023.avstreaming.es/public_html/assets/php/redsys/ejemploGeneraPet.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/registradores2023.avstreaming.es/public_html/assets/php/redsys/ejemploGeneraPet.php on line 63
+[26-Apr-2023 11:08:48 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/customer/www/registradores2023.avstreaming.es/public_html/assets/php/redsys/ejemploGeneraPet.php on line 105
+[26-Apr-2023 11:19:00 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/customer/www/registradores2023.avstreaming.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/registradores2023.avstreaming.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 155
+[26-Apr-2023 11:20:23 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/customer/www/registradores2023.avstreaming.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:332
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/registradores2023.avstreaming.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 332
+[26-Apr-2023 15:24:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ader() in /home/customer/www/registradores2023.avstreaming.es/public_html/assets/php/redsys/ejemploRecepcionaPet2.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/registradores2023.avstreaming.es/public_html/assets/php/redsys/ejemploRecepcionaPet2.php on line 217
+[26-Apr-2023 15:24:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ader() in /home/customer/www/registradores2023.avstreaming.es/public_html/assets/php/redsys/ejemploRecepcionaPet2.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/registradores2023.avstreaming.es/public_html/assets/php/redsys/ejemploRecepcionaPet2.php on line 217
+[26-Apr-2023 15:25:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ader() in /home/customer/www/registradores2023.avstreaming.es/public_html/assets/php/redsys/ejemploRecepcionaPet2.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/registradores2023.avstreaming.es/public_html/assets/php/redsys/ejemploRecepcionaPet2.php on line 217
+[26-Apr-2023 15:25:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ader() in /home/customer/www/registradores2023.avstreaming.es/public_html/assets/php/redsys/ejemploRecepcionaPet2.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/registradores2023.avstreaming.es/public_html/assets/php/redsys/ejemploRecepcionaPet2.php on line 217
+[26-Apr-2023 15:25:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ader() in /home/customer/www/registradores2023.avstreaming.es/public_html/assets/php/redsys/ejemploRecepcionaPet2.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/registradores2023.avstreaming.es/public_html/assets/php/redsys/ejemploRecepcionaPet2.php on line 217
+[26-Apr-2023 15:25:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ader() in /home/customer/www/registradores2023.avstreaming.es/public_html/assets/php/redsys/ejemploRecepcionaPet2.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/registradores2023.avstreaming.es/public_html/assets/php/redsys/ejemploRecepcionaPet2.php on line 217
+[26-Apr-2023 15:25:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ader() in /home/customer/www/registradores2023.avstreaming.es/public_html/assets/php/redsys/ejemploRecepcionaPet2.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/registradores2023.avstreaming.es/public_html/assets/php/redsys/ejemploRecepcionaPet2.php on line 217
+[26-Apr-2023 15:25:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ader() in /home/customer/www/registradores2023.avstreaming.es/public_html/assets/php/redsys/ejemploRecepcionaPet2.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/registradores2023.avstreaming.es/public_html/assets/php/redsys/ejemploRecepcionaPet2.php on line 217
+[10-May-2023 09:39:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[10-May-2023 09:45:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[10-May-2023 09:48:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[10-May-2023 10:12:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[10-May-2023 10:24:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[10-May-2023 10:24:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID='156'' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/respuestaok.php:325
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/respuestaok.php(325): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/respuestaok.php on line 325
+[10-May-2023 10:25:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID='156'' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/respuestaok.php:327
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/respuestaok.php(327): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/respuestaok.php on line 327
+[10-May-2023 10:27:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[10-May-2023 10:27:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID='156'' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/respuestaok.php:331
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/respuestaok.php(331): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/respuestaok.php on line 331
+[10-May-2023 10:38:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[10-May-2023 10:42:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[10-May-2023 10:53:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[10-May-2023 10:55:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[10-May-2023 10:56:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[10-May-2023 10:56:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[11-May-2023 14:25:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[11-May-2023 14:32:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[11-May-2023 14:32:57 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/respuestaok.php on line 329
+[11-May-2023 14:33:37 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/respuestaok.php on line 638
+[11-May-2023 14:36:36 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/respuestaok.php on line 638
+[11-May-2023 14:36:42 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/respuestaok.php on line 638
+[11-May-2023 14:38:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[11-May-2023 14:41:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[11-May-2023 14:51:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[11-May-2023 15:45:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[11-May-2023 15:49:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[11-May-2023 15:51:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[11-May-2023 15:53:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[11-May-2023 16:01:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[11-May-2023 16:03:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[11-May-2023 16:13:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[11-May-2023 16:17:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[11-May-2023 16:21:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[11-May-2023 16:24:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[11-May-2023 16:45:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[12-May-2023 07:30:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[12-May-2023 07:31:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[12-May-2023 07:56:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[12-May-2023 07:58:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[12-May-2023 07:59:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[12-May-2023 08:00:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[12-May-2023 08:23:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[12-May-2023 08:29:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[12-May-2023 08:33:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[12-May-2023 08:37:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[12-May-2023 08:39:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[12-May-2023 08:40:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[12-May-2023 10:37:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[12-May-2023 10:42:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[12-May-2023 14:43:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[20-May-2023 22:52:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[22-May-2023 16:01:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[22-May-2023 18:24:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[22-May-2023 18:43:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[23-May-2023 09:03:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[23-May-2023 09:09:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[23-May-2023 09:15:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[23-May-2023 10:06:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[23-May-2023 10:19:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[23-May-2023 10:22:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'USER_ID' in 'where clause' in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/respuestaok.php:477
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/respuestaok.php(477): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/respuestaok.php on line 477
+[23-May-2023 12:26:39 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''163','1684837145','May 23, 2023, 12:26 pm')' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/respuestaok.php:477
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/respuestaok.php(477): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/respuestaok.php on line 477
+[23-May-2023 10:34:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[23-May-2023 10:39:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[23-May-2023 10:42:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploGeneraPet.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploGeneraPet.php on line 71
+[23-May-2023 10:49:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[23-May-2023 10:52:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'USER_ID' cannot be null in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploGeneraPet.php:73
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploGeneraPet.php(73): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploGeneraPet.php on line 73
+[23-May-2023 10:52:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'USER_ID' cannot be null in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploGeneraPet.php:73
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploGeneraPet.php(73): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploGeneraPet.php on line 73
+[23-May-2023 10:56:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[23-May-2023 11:11:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[23-May-2023 11:12:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[23-May-2023 11:14:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[23-May-2023 11:17:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[25-May-2023 19:22:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[26-May-2023 11:01:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[26-May-2023 11:09:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[26-May-2023 11:12:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[26-May-2023 11:14:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[29-May-2023 10:55:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[29-May-2023 18:25:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[30-May-2023 10:45:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php:39
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php(39): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 39
+[12-Jun-2023 08:32:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'USER_ID' cannot be null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploGeneraPet.php:81
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploGeneraPet.php(81): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploGeneraPet.php on line 81
+[12-Jun-2023 08:35:07 UTC] PHP Parse error:  syntax error, unexpected '.', expecting end of file in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploGeneraPet.php on line 81
+[12-Jun-2023 08:35:20 UTC] PHP Parse error:  syntax error, unexpected '.', expecting end of file in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploGeneraPet.php on line 81
+[12-Jun-2023 08:35:22 UTC] PHP Parse error:  syntax error, unexpected '.', expecting end of file in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploGeneraPet.php on line 81
+[12-Jun-2023 08:35:22 UTC] PHP Parse error:  syntax error, unexpected '.', expecting end of file in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploGeneraPet.php on line 81
+[12-Jun-2023 08:35:23 UTC] PHP Parse error:  syntax error, unexpected '.', expecting end of file in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploGeneraPet.php on line 81
+[12-Jun-2023 08:35:23 UTC] PHP Parse error:  syntax error, unexpected '.', expecting end of file in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploGeneraPet.php on line 81
+[12-Jun-2023 08:35:23 UTC] PHP Parse error:  syntax error, unexpected '.', expecting end of file in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploGeneraPet.php on line 81
+[12-Jun-2023 08:35:23 UTC] PHP Parse error:  syntax error, unexpected '.', expecting end of file in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploGeneraPet.php on line 81
+[12-Jun-2023 08:35:24 UTC] PHP Parse error:  syntax error, unexpected '.', expecting end of file in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploGeneraPet.php on line 81
+[12-Jun-2023 08:35:24 UTC] PHP Parse error:  syntax error, unexpected '.', expecting end of file in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploGeneraPet.php on line 81
+[12-Jun-2023 08:35:24 UTC] PHP Parse error:  syntax error, unexpected '.', expecting end of file in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploGeneraPet.php on line 81
+[12-Jun-2023 08:52:44 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploGeneraPet.php on line 290
+[12-Jun-2023 09:20:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'USER_ID' cannot be null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploGeneraPet.php:87
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploGeneraPet.php(87): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploGeneraPet.php on line 87
+[12-Jun-2023 09:21:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'USER_ID' cannot be null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploGeneraPet.php:87
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploGeneraPet.php(87): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploGeneraPet.php on line 87
+[12-Jun-2023 11:13:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 8
+[12-Jun-2023 11:13:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 8
+[12-Jun-2023 11:14:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 8
+[12-Jun-2023 11:14:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 8
+[12-Jun-2023 11:14:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 8
+[12-Jun-2023 11:14:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 8
+[12-Jun-2023 11:14:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 8
+[12-Jun-2023 11:14:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 8
+[12-Jun-2023 11:14:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 8
+[12-Jun-2023 11:14:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 8
+[12-Jun-2023 11:14:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 8
+[12-Jun-2023 11:14:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 8
+[12-Jun-2023 11:14:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 8
+[12-Jun-2023 11:14:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 8
+[12-Jun-2023 11:14:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 8
+[12-Jun-2023 11:14:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 8
+[12-Jun-2023 11:14:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 8
+[12-Jun-2023 11:14:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 8
+[12-Jun-2023 11:14:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 8
+[12-Jun-2023 11:14:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 8
+[12-Jun-2023 11:14:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 8
+[12-Jun-2023 11:14:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 8
+[12-Jun-2023 11:14:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 8
+[12-Jun-2023 11:14:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 8
+[12-Jun-2023 11:15:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 8
+[12-Jun-2023 11:15:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 8
+[12-Jun-2023 11:18:42 UTC] PHP Fatal error:  Cannot declare class PHPMailer, because the name is already in use in /home/customer/www/cardiomir2023.com/public_html/assets/php/SMTP/class.phpmailer.php on line 82
+[12-Jun-2023 11:19:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:109
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(109): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 109
+[12-Jun-2023 11:19:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:109
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(109): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 109
+[12-Jun-2023 11:20:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:109
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(109): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 109
+[12-Jun-2023 11:20:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:109
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(109): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 109
+[12-Jun-2023 11:20:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:109
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(109): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 109
+[12-Jun-2023 11:20:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:109
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(109): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 109
+[12-Jun-2023 11:20:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:109
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(109): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 109
+[12-Jun-2023 11:20:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:109
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(109): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 109
+[12-Jun-2023 11:20:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:109
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(109): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 109
+[12-Jun-2023 11:20:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:109
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(109): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 109
+[12-Jun-2023 11:20:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:109
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(109): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 109
+[12-Jun-2023 11:20:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:109
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(109): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 109
+[12-Jun-2023 11:21:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:109
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(109): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 109
+[12-Jun-2023 11:21:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:109
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(109): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 109
+[12-Jun-2023 11:21:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:109
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(109): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 109
+[12-Jun-2023 11:22:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:109
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(109): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 109
+[12-Jun-2023 11:22:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:109
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(109): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 109
+[12-Jun-2023 11:22:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:109
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(109): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 109
+[12-Jun-2023 11:22:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:109
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(109): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 109
+[12-Jun-2023 11:22:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:109
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(109): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 109
+[12-Jun-2023 11:22:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:109
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(109): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 109
+[12-Jun-2023 11:22:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:109
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(109): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 109
+[12-Jun-2023 11:22:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:109
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(109): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 109
+[12-Jun-2023 11:22:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:109
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(109): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 109
+[12-Jun-2023 11:22:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID='206'' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:110
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(110): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 110
+[12-Jun-2023 11:31:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:49
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(49): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 49
+[12-Jun-2023 11:37:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:49
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(49): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 49
+[12-Jun-2023 11:42:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:49
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(49): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 49
+[12-Jun-2023 11:48:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:49
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(49): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 49
+[12-Jun-2023 11:53:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:49
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(49): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 49
+[12-Jun-2023 12:04:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:49
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(49): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 49
+[12-Jun-2023 12:13:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:61
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(61): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 61
+[12-Jun-2023 12:28:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:61
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(61): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 61
+[12-Jun-2023 12:38:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:61
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(61): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 61
+[12-Jun-2023 12:47:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:61
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(61): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 61
+[20-Jun-2023 12:29:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:61
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(61): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 61
+[22-Jun-2023 17:02:41 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID='263'' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/respuestaok.php:87
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/respuestaok.php(87): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/respuestaok.php on line 87
+[27-Jun-2023 10:24:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:61
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(61): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 61
+[29-Jun-2023 09:56:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:61
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(61): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 61
+[29-Jun-2023 10:16:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:61
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(61): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 61
+[04-Jul-2023 09:55:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:61
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(61): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 61
+[10-Jul-2023 10:45:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID=NULL' at line 1 in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php:61
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php(61): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/assets/php/redsys/ejemploRecepcionaPet.php on line 61

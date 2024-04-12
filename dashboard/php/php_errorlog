@@ -1,0 +1,517 @@
+[23-Apr-2023 11:50:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbam63zuugyg4n.FACTURACION' doesn't exist in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/user_fact.php:17
+Stack trace:
+#0 /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/user_fact.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/user_fact.php on line 17
+[25-Apr-2023 09:52:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbam63zuugyg4n.FACTURACION' doesn't exist in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/user_fact.php:17
+Stack trace:
+#0 /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/user_fact.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/user_fact.php on line 17
+[25-Apr-2023 09:53:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbam63zuugyg4n.FACTURACION' doesn't exist in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/user_fact.php:17
+Stack trace:
+#0 /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/user_fact.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/user_fact.php on line 17
+[25-Apr-2023 09:56:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbam63zuugyg4n.FACTURACION' doesn't exist in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/user_fact.php:17
+Stack trace:
+#0 /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/user_fact.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/user_fact.php on line 17
+[25-Apr-2023 10:02:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbam63zuugyg4n.form1' doesn't exist in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/user_active.php:22
+Stack trace:
+#0 /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/user_active.php(22): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/user_active.php on line 22
+[25-Apr-2023 10:03:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbam63zuugyg4n.form1' doesn't exist in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/user_active.php:22
+Stack trace:
+#0 /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/user_active.php(22): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/user_active.php on line 22
+[25-Apr-2023 10:03:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbam63zuugyg4n.form1' doesn't exist in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/user_active.php:22
+Stack trace:
+#0 /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/user_active.php(22): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/user_active.php on line 22
+[25-Apr-2023 11:01:04 UTC] PHP Fatal error:  require(): Failed opening required 'SMTP/class.phpmailer.php' (include_path='.:/usr/local/php74/pear') in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/update.php on line 3
+[25-Apr-2023 13:01:35 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/update.php:88
+Stack trace:
+#0 /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/update.php(88): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/update.php on line 88
+[25-Apr-2023 11:02:36 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/update.php on line 88
+[25-Apr-2023 13:02:53 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Iglesias',`EMAIL`='ernesto@avmedios.com',`DNI`='Y6868452N',`TELEFONO`='643152892' at line 1 in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/update.php:88
+Stack trace:
+#0 /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/update.php(88): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/update.php on line 88
+[25-Apr-2023 13:04:53 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Iglesias', `EMAIL`='ernesto@avmedios.com', `DNI`='Y6868452N', `TELEFONO`='643152' at line 1 in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/update.php:88
+Stack trace:
+#0 /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/update.php(88): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/update.php on line 88
+[25-Apr-2023 13:07:59 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Iglesias', `EMAIL`='ernesto@avmedios.com', `DNI`='Y6868452N', `TELEFONO`='643152' at line 1 in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/update.php:88
+Stack trace:
+#0 /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/update.php(88): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/update.php on line 88
+[25-Apr-2023 13:08:10 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/update.php:94
+Stack trace:
+#0 /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/update.php(94): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/update.php on line 94
+[25-Apr-2023 13:08:27 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '643152892',`F_DIRECCION`='Calle Laguna del Marquesado, 19, Madrid, Spain',`F_CP`' at line 1 in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/update.php:94
+Stack trace:
+#0 /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/update.php(94): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.avstreaming.es/public_html/dashboard/php/update.php on line 94
+[27-Apr-2023 08:55:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/customer/www/registradores2023.es/public_html/dashboard/php/hoteles.php:11
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/dashboard/php/hoteles.php(11): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/hoteles.php on line 11
+[27-Apr-2023 08:56:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/customer/www/registradores2023.es/public_html/dashboard/php/hoteles.php:11
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/dashboard/php/hoteles.php(11): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/hoteles.php on line 11
+[27-Apr-2023 11:55:12 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'PAGO' cannot be null in /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php:42
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php on line 42
+[27-Apr-2023 11:57:08 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'GESTION' cannot be null in /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php:42
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php(42): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php on line 42
+[27-Apr-2023 12:22:38 UTC] PHP Fatal error:  require(): Failed opening required '../../SMTP/class.phpmailer.php' (include_path='.:/usr/local/php74/pear') in /home/customer/www/registradores2023.es/public_html/dashboard/php/mail.php on line 3
+[27-Apr-2023 16:35:42 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/customer/www/registradores2023.es/public_html/dashboard/php/update.php:68
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/dashboard/php/update.php(68): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/update.php on line 68
+[27-Apr-2023 17:56:18 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DATE) VALUES ('Ivan','asdfasdf','ivan@avmedios.com','asdfa','sdfas','asdf','$2y$' at line 20 in /home/customer/www/registradores2023.es/public_html/dashboard/php/importfile.php:1202
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/dashboard/php/importfile.php(1202): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/importfile.php on line 1202
+[27-Apr-2023 17:59:11 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/customer/www/registradores2023.es/public_html/dashboard/php/importfile.php:1204
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/dashboard/php/importfile.php(1204): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/importfile.php on line 1204
+[27-Apr-2023 17:59:27 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ESTADO) VALUES ('Ivan','asdfasdf','ivan@avmedios.com','asdfa','sdfas','asdf','$2' at line 20 in /home/customer/www/registradores2023.es/public_html/dashboard/php/importfile.php:1204
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/dashboard/php/importfile.php(1204): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/importfile.php on line 1204
+[28-Apr-2023 11:49:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function learstatcache() in /home/customer/www/registradores2023.es/public_html/dashboard/php/subidas.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/subidas.php on line 9
+[03-May-2023 09:54:41 UTC] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/customer/www/registradores2023.es/public_html/dashboard/php/sender.php on line 18
+[04-May-2023 11:23:08 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ACOMPA' cannot be null in /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php:51
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php(51): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php on line 51
+[04-May-2023 11:27:15 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ACOMPA' cannot be null in /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php:51
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php(51): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php on line 51
+[04-May-2023 11:28:56 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ACOMPA' cannot be null in /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php:51
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php(51): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php on line 51
+[04-May-2023 11:30:13 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ACOMPA' cannot be null in /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php:51
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php(51): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php on line 51
+[04-May-2023 16:10:24 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'GESTION' cannot be null in /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php:51
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php(51): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php on line 51
+[04-May-2023 16:29:28 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'GESTION' cannot be null in /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php:51
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php(51): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php on line 51
+[09-May-2023 10:53:17 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbvjbhpzquldsv.pendiente' doesn't exist in /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php:67
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php(67): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php on line 67
+[09-May-2023 10:54:28 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pago' in 'field list' in /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php:67
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php(67): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php on line 67
+[09-May-2023 10:56:26 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pago' in 'field list' in /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php:67
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php(67): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/user_create.php on line 67
+[09-May-2023 11:31:59 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SLEECT * FROM pendiete WHERE USER_ID='151'' at line 1 in /home/customer/www/registradores2023.es/public_html/dashboard/php/update.php:48
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/dashboard/php/update.php(48): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/update.php on line 48
+[10-May-2023 14:17:05 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/customer/www/registradores2023.es/public_html/dashboard/php/update.php:153
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/dashboard/php/update.php(153): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/update.php on line 153
+[12-May-2023 07:50:17 UTC] PHP Parse error:  syntax error, unexpected '"ok"' (T_CONSTANT_ENCAPSED_STRING) in /home/customer/www/registradores2023.es/public_html/dashboard/php/update.php on line 127
+[17-May-2023 11:25:42 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::lastInsertId() in /home/customer/www/registradores2023.es/public_html/dashboard/php/importfile.php:1208
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/importfile.php on line 1208
+[17-May-2023 11:26:24 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ACOMPA_CUOTA' cannot be null in /home/customer/www/registradores2023.es/public_html/dashboard/php/importfile.php:1255
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/dashboard/php/importfile.php(1255): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/importfile.php on line 1255
+[17-May-2023 11:27:13 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ACOMPA_CUOTA' cannot be null in /home/customer/www/registradores2023.es/public_html/dashboard/php/importfile.php:1262
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/dashboard/php/importfile.php(1262): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/importfile.php on line 1262
+[17-May-2023 11:30:46 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ACOMPA_PAGO' cannot be null in /home/customer/www/registradores2023.es/public_html/dashboard/php/importfile.php:1255
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/dashboard/php/importfile.php(1255): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/importfile.php on line 1255
+[19-May-2023 10:34:24 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/registradores2023.es/public_html/dashboard/php/resolver.php on line 99
+[23-May-2023 11:30:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/customer/www/registradores2023.es/public_html/dashboard/php/pedidos.php:7
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/dashboard/php/pedidos.php(7): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/pedidos.php on line 7
+[24-May-2023 11:33:30 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ACOMPA_PAGO' cannot be null in /home/customer/www/registradores2023.es/public_html/dashboard/php/importfile.php:1267
+Stack trace:
+#0 /home/customer/www/registradores2023.es/public_html/dashboard/php/importfile.php(1267): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/importfile.php on line 1267
+[25-May-2023 09:33:28 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/registradores2023.es/public_html/dashboard/php/export2.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/export2.php on line 31
+[25-May-2023 12:03:09 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/registradores2023.es/public_html/dashboard/php/export2.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/export2.php on line 31
+[25-May-2023 15:33:16 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/registradores2023.es/public_html/dashboard/php/export2.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/export2.php on line 31
+[30-May-2023 11:21:13 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/registradores2023.es/public_html/dashboard/php/export2.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/registradores2023.es/public_html/dashboard/php/export2.php on line 31
+[31-May-2023 11:40:18 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/export2.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/export2.php on line 31
+[31-May-2023 11:44:47 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/export2.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/export2.php on line 31
+[31-May-2023 12:13:03 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/export2.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/export2.php on line 31
+[31-May-2023 12:13:31 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/export2.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/export2.php on line 31
+[31-May-2023 12:14:36 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/export2.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/export2.php on line 31
+[31-May-2023 13:13:33 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'F_PROVINCIA' in 'field list' in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php:65
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php(65): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php on line 65
+[31-May-2023 13:13:34 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'F_PROVINCIA' in 'field list' in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php:65
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php(65): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php on line 65
+[31-May-2023 13:13:35 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'F_PROVINCIA' in 'field list' in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php:65
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php(65): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php on line 65
+[31-May-2023 13:13:35 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'F_PROVINCIA' in 'field list' in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php:65
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php(65): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php on line 65
+[31-May-2023 13:13:36 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'F_PROVINCIA' in 'field list' in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php:65
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php(65): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php on line 65
+[31-May-2023 13:13:36 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'F_PROVINCIA' in 'field list' in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php:65
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php(65): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php on line 65
+[31-May-2023 13:13:36 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'F_PROVINCIA' in 'field list' in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php:65
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php(65): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php on line 65
+[31-May-2023 13:13:37 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'F_PROVINCIA' in 'field list' in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php:65
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php(65): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php on line 65
+[31-May-2023 13:13:37 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'F_PROVINCIA' in 'field list' in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php:65
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php(65): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php on line 65
+[31-May-2023 13:13:37 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'F_PROVINCIA' in 'field list' in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php:65
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php(65): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php on line 65
+[31-May-2023 13:13:37 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'F_PROVINCIA' in 'field list' in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php:65
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php(65): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php on line 65
+[31-May-2023 13:13:37 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'F_PROVINCIA' in 'field list' in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php:65
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php(65): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php on line 65
+[31-May-2023 13:13:37 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'F_PROVINCIA' in 'field list' in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php:65
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php(65): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php on line 65
+[31-May-2023 13:13:38 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'F_PROVINCIA' in 'field list' in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php:65
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php(65): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php on line 65
+[31-May-2023 13:13:41 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'F_PROVINCIA' in 'field list' in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php:65
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php(65): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php on line 65
+[31-May-2023 13:13:41 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'F_PROVINCIA' in 'field list' in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php:65
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php(65): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php on line 65
+[31-May-2023 13:13:41 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'F_PROVINCIA' in 'field list' in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php:65
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php(65): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php on line 65
+[31-May-2023 13:13:41 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'F_PROVINCIA' in 'field list' in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php:65
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php(65): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php on line 65
+[31-May-2023 13:13:41 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'F_PROVINCIA' in 'field list' in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php:65
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php(65): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php on line 65
+[31-May-2023 13:13:42 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'F_PROVINCIA' in 'field list' in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php:65
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php(65): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php on line 65
+[31-May-2023 15:02:44 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ACOMPA_CUOTA' cannot be null in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/user_create.php:320
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/user_create.php(320): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/user_create.php on line 320
+[31-May-2023 15:04:19 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ACOMPA_CUOTA' cannot be null in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/user_create.php:355
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/user_create.php(355): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/user_create.php on line 355
+[31-May-2023 17:25:51 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update_user.php:82
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update_user.php(82): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update_user.php on line 82
+[31-May-2023 17:27:34 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ernesto@avmedios.com2',
+`DNI`='',
+`CARGO`='',
+`PAIS`='Senegal',
+`DIRECCION`=NULL' at line 4 in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update_user.php:84
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update_user.php(84): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update_user.php on line 84
+[31-May-2023 17:29:41 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ernesto@avmedios.com2',
+`DNI`='',
+`CARGO`='',
+`PAIS`='Senegal',
+`DIRECCION`='',
+' at line 4 in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update_user.php:85
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update_user.php(85): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update_user.php on line 85
+[31-May-2023 17:30:42 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'USER_ID' in 'where clause' in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update_user.php:85
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update_user.php(85): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update_user.php on line 85
+[31-May-2023 18:05:58 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE USER_ID='89'' at line 6 in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update_user.php:155
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update_user.php(155): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update_user.php on line 155
+[01-Jun-2023 15:55:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/hotel.php on line 103
+[02-Jun-2023 10:24:29 UTC] PHP Parse error:  syntax error, unexpected '":id"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php on line 90
+[02-Jun-2023 15:15:32 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/export2.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/export2.php on line 31
+[06-Jun-2023 10:29:45 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'USER_ID' cannot be null in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/importfile.php:1253
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/importfile.php(1253): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/importfile.php on line 1253
+[06-Jun-2023 10:30:52 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function execute() on string in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/importfile.php:1225
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/importfile.php on line 1225
+[06-Jun-2023 10:31:29 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'USER_ID' cannot be null in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/importfile.php:1253
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/importfile.php(1253): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/importfile.php on line 1253
+[06-Jun-2023 10:31:44 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function execute() on string in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/importfile.php:1247
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/importfile.php on line 1247
+[06-Jun-2023 11:15:03 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/importfile.php:1271
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/importfile.php(1271): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/importfile.php on line 1271
+[06-Jun-2023 12:00:56 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to undefined function enviar() in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/sender.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/sender.php on line 11
+[06-Jun-2023 12:02:57 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/sender.php:22
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/sender.php(11): enviar('89')
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/sender.php on line 22
+[06-Jun-2023 12:04:27 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/sender.php:22
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/sender.php(11): enviar('89')
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/sender.php on line 22
+[06-Jun-2023 12:04:52 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/sender.php:22
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/sender.php(11): enviar('89')
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/sender.php on line 22
+[06-Jun-2023 11:42:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/sender.php on line 138
+[06-Jun-2023 11:42:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/sender.php on line 138
+[06-Jun-2023 11:43:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/sender.php on line 138
+[06-Jun-2023 11:43:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/sender.php on line 138
+[06-Jun-2023 11:43:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/sender.php on line 138
+[06-Jun-2023 11:43:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/sender.php on line 139
+[06-Jun-2023 11:43:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/sender.php on line 139
+[06-Jun-2023 11:44:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/sender.php on line 139
+[07-Jun-2023 11:07:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbg0vd7zzm9vyr.reserva_hotel' doesn't exist in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/hotel_data.php:8
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/hotel_data.php(8): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/hotel_data.php on line 8
+[07-Jun-2023 13:07:18 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbg0vd7zzm9vyr.reserva_hotel' doesn't exist in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php:208
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php(208): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php on line 208
+[07-Jun-2023 11:12:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`reservas_hotel` WHERE ID='2'' at line 1 in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/hotel.php:7
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/hotel.php(7): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/hotel.php on line 7
+[07-Jun-2023 11:12:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'reservas_hotel WHERE ID='2'' at line 1 in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/hotel.php:7
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/hotel.php(7): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/hotel.php on line 7
+[07-Jun-2023 13:14:32 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update.php on line 247
+[08-Jun-2023 11:35:37 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/importfile.php:1279
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/importfile.php(1279): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/importfile.php on line 1279
+[08-Jun-2023 11:36:22 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/importfile.php:1279
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/importfile.php(1279): PDOStatement->execute()
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/importfile.php on line 1279
+[08-Jun-2023 14:03:59 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'HOTEL_CUOTA' in 'field list' in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/resolver.php:115
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/resolver.php(115): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/resolver.php on line 115
+[09-Jun-2023 07:42:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/importfile.php on line 1533
+[09-Jun-2023 10:43:54 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ID='139'' at line 22 in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update_user.php:108
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update_user.php(108): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update_user.php on line 108
+[09-Jun-2023 10:44:44 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ID='139'' at line 22 in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update_user.php:108
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update_user.php(108): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/update_user.php on line 108
+[12-Jun-2023 14:53:36 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'HABITACION' in 'field list' in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/user_create.php:201
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/user_create.php(201): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/user_create.php on line 201
+[12-Jun-2023 14:55:39 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/user_create.php:193
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/user_create.php(193): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/user_create.php on line 193
+[12-Jun-2023 14:55:59 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'HOTEL_CUOTA' in 'field list' in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/user_create.php:342
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/user_create.php(342): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/user_create.php on line 342
+[27-Jun-2023 11:24:48 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/user_create.php:197
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/user_create.php(197): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/user_create.php on line 197
+[27-Jun-2023 11:24:53 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/user_create.php:197
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/user_create.php(197): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/user_create.php on line 197
+[27-Jun-2023 11:25:06 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/user_create.php:197
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/user_create.php(197): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/user_create.php on line 197
+[27-Jun-2023 11:26:14 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1 in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/user_create.php:197
+Stack trace:
+#0 /home/customer/www/cardiomir2023.com/public_html/dashboard/php/user_create.php(197): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/cardiomir2023.com/public_html/dashboard/php/user_create.php on line 197

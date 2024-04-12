@@ -1,0 +1,2 @@
+<?php
+echo "VER DOCUMENTO DE STRIPE";

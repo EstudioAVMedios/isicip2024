@@ -1,0 +1,32 @@
+[24-Apr-2023 15:30:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/symposiumsepsis22.com/public_html/system/sesiones/video_ponencias.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/symposiumsepsis22.com/public_html/system/sesiones/video_ponencias.php on line 28
+[01-May-2023 10:43:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/symposiumsepsis22.com/public_html/system/sesiones/video_ponencias.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/symposiumsepsis22.com/public_html/system/sesiones/video_ponencias.php on line 28
+[25-May-2023 16:15:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/symposiumsepsis22.com/public_html/system/sesiones/video_ponencias.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/symposiumsepsis22.com/public_html/system/sesiones/video_ponencias.php on line 28
+[09-Jun-2023 18:26:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/isicip23.com/public_html/system/sesiones/sessions.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/isicip23.com/public_html/system/sesiones/sessions.php on line 27
+[28-Jun-2023 13:14:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/isicip23.com/public_html/system/sesiones/sessions.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/isicip23.com/public_html/system/sesiones/sessions.php on line 27
+[28-Jun-2023 13:14:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/isicip23.com/public_html/system/sesiones/sessions.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/isicip23.com/public_html/system/sesiones/sessions.php on line 27
+[28-Jun-2023 13:15:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/isicip23.com/public_html/system/sesiones/sessions.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/isicip23.com/public_html/system/sesiones/sessions.php on line 27
+[28-Jun-2023 13:15:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/customer/www/isicip23.com/public_html/system/sesiones/sessions.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/isicip23.com/public_html/system/sesiones/sessions.php on line 27
